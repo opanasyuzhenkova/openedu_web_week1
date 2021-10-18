@@ -1,7 +1,8 @@
 {
   "headers":{
     "/*":{
-      "X-Author" : "panasyuzhenkova99"     
+      "X-Author" : "panasyuzhenkova99"  
+      "Access-Control-Allow-Origin":"*"
     }
   }
 }
